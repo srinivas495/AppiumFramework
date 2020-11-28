@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="172419" started-at="2020-11-24T05:13:23Z" finished-at="2020-11-24T05:16:15Z">
+  <suite name="Default suite" duration-ms="135895" started-at="2020-11-28T17:15:47Z" finished-at="2020-11-28T17:18:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="172419" started-at="2020-11-24T05:13:23Z" finished-at="2020-11-24T05:16:15Z">
+    <test name="Default test" duration-ms="135895" started-at="2020-11-28T17:15:47Z" finished-at="2020-11-28T17:18:03Z">
       <class name="practise.AppiumFramework.ApiDemoTest">
-        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="killAllNodes" is-config="true" duration-ms="3033" started-at="2020-11-24T05:13:23Z" finished-at="2020-11-24T05:13:26Z">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="killAllNodes" is-config="true" duration-ms="3023" started-at="2020-11-28T17:15:47Z" finished-at="2020-11-28T17:15:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- killAllNodes -->
-        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="apiDemo" duration-ms="101272" started-at="2020-11-24T05:13:26Z" data-provider="InputData" finished-at="2020-11-24T05:15:07Z">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="apiDemo" duration-ms="73413" started-at="2020-11-28T17:15:50Z" data-provider="InputData" finished-at="2020-11-28T17:17:03Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiDemo -->
-        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="apiDemo" duration-ms="67975" started-at="2020-11-24T05:15:07Z" data-provider="InputData" finished-at="2020-11-24T05:16:15Z">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practise.AppiumFramework.ApiDemoTest@2b2948e2]" name="apiDemo" duration-ms="59281" started-at="2020-11-28T17:17:03Z" data-provider="InputData" finished-at="2020-11-28T17:18:02Z">
           <params>
             <param index="0">
               <value>
