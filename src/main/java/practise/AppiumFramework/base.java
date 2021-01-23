@@ -19,7 +19,7 @@ public class base {
 	public static AndroidDriver<AndroidElement>  driver;
 	public static AppiumDriverLocalService service;
 
-	public AppiumDriverLocalService startServer() 
+	public static AppiumDriverLocalService startServer() 
 	{
 		boolean flag=	checkIfServerIsRunnning(4723);
 		if(!flag)
